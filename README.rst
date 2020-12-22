@@ -1,5 +1,9 @@
 Quantum-inspired algorithms in practice
+
+
 (QAOA Quantum Portfolio)
+https://arxiv.org/search/?query=Portfolio+quantum&searchtype=all&source=header
+
 ##############################################
 
 Quantum-inspired algorithms to solve systems of linear equations
