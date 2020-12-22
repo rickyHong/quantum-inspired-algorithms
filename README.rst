@@ -1,4 +1,5 @@
 Quantum-inspired algorithms in practice
+(QAOA Quantum Portfolio)
 ##############################################
 
 Quantum-inspired algorithms to solve systems of linear equations
